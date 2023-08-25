@@ -1,6 +1,6 @@
 # esclib
 
-This is a templates library by escapist404.
+This is a template library by escapist404 for competetive algorithm contest.
 
 Including:
 
